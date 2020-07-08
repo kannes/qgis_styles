@@ -4,7 +4,10 @@ Collection of resources to take your QGIS cartography to the nextest level.
 Styles are created with QGIS 3.12, but some of them should work also on older versions of QGIS if you modfiy the XML by hand and change the *qgis_style* version on top of the file to **1**. 
 
 ## Available Styles
-none yet
+### Trees on the beach
+For polygons.
+![Trees on the beach](https://github.com/cartocalypse/qgis_styles/blob/master/sample_images/trees_on_the_beach-cartocalypse1.png)
+![Trees on the beach](https://github.com/cartocalypse/qgis_styles/blob/master/sample_images/trees_on_the_beach-cartocalypse2.png)
 
 ## How to use the styles in QGIS
 
