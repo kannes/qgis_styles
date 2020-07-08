@@ -6,8 +6,8 @@ Styles are created with QGIS 3.12, but some of them should work also on older ve
 ## Available Styles
 ### Trees on the beach
 For polygons.
-![Trees on the beach](https://github.com/cartocalypse/qgis_styles/blob/master/sample_images/trees_on_the_beach-cartocalypse1.png)
-![Trees on the beach](https://github.com/cartocalypse/qgis_styles/blob/master/sample_images/trees_on_the_beach-cartocalypse2.png)
+![Trees on the beach](https://github.com/kannes/qgis_styles/blob/master/sample_images/trees_on_the_beach-cartocalypse1.png)
+![Trees on the beach](https://github.com/kannes/qgis_styles/blob/master/sample_images/trees_on_the_beach-cartocalypse2.png)
 
 ## How to use the styles in QGIS
 
