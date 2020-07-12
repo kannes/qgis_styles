@@ -9,6 +9,10 @@ For polygons.
 ![Trees on the beach](https://github.com/kannes/qgis_styles/blob/master/sample_images/trees_on_the_beach-cartocalypse1.png)
 ![Trees on the beach](https://github.com/kannes/qgis_styles/blob/master/sample_images/trees_on_the_beach-cartocalypse2.png)
 
+### Migraine
+For polygons. Don't look at it.
+![Migraine](https://github.com/kannes/qgis_styles/blob/master/sample_images/migraine-cartocalypse.png)
+
 ## How to use the styles in QGIS
 
 You can clone this repository and import the styles via Style Manager.
