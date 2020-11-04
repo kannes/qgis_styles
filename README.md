@@ -13,6 +13,10 @@ For polygons.
 For polygons. Don't look at it.
 ![Migraine](https://github.com/kannes/qgis_styles/blob/master/sample_images/migraine-cartocalypse.png)
 
+### Candy Cane
+For polygons. Lick it or better yet, keep your local traditions alive.
+![Migraine](https://github.com/kannes/qgis_styles/blob/master/sample_images/candy_cane-cartocalypse.png)
+
 ## How to use the styles in QGIS
 
 You can clone this repository and import the styles via Style Manager.
